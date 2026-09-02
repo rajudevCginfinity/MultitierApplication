@@ -1,6 +1,6 @@
 namespace MultitierApplication.Models
 
-open System
+open System 
 
 type ErrorViewModel =
     { RequestId: string }
